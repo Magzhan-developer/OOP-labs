@@ -4,7 +4,7 @@ import task1_classes.*;
 public class task1TestClass {
 	public static void main(String args[]) {
 //		Flyable bird = new Bird();
-//		Flyable airplane = new Airplane();
+//		Flyablel airplane = new Airplane();
 //		bird.fly();
 //		airplane.fly();
 	
